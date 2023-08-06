@@ -1,0 +1,118 @@
+.detalle {
+  background-color: rgba(0, 0, 0, 0.468);
+  margin: 0.5rem;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 50px;
+}
+
+.detalle-titulo {
+  color: yellow;
+  margin: 0.5rem;
+  border-radius: 20px;
+  font-family: "Neucha", cursive;
+  font-size: 1.5rem;
+  font-weight: 800;
+  text-shadow: 2px 2px 2px black;
+}
+
+.detalle-precio {
+  color: yellow;
+  text-shadow: 1px 1px 1px black;
+  margin: 0.5rem;
+  border-radius: 20px;
+  font-size: 1.5rem;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: bold;
+}
+
+.detalle-descripcion {
+  color: yellow;
+  font-size: 1rem;
+  margin: 0.5rem;
+  border-radius: 20px;
+  letter-spacing: 0.2rem;
+  text-shadow: 3px 3px 3px black;
+  font-weight: 800;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.detalle-imagen {
+  width: 200px;
+  border-radius: 20px;
+  box-shadow: 2px -2px 2px black;
+  margin: 0.3rem;
+}
+
+.btn-contador-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-sumar {
+  background-color: rgba(0, 0, 0, 0.468);
+  border: 2px solid black;
+  color: yellow;
+  border-radius: 30px;
+  padding: 10px;
+  text-shadow: 2px 2px 2px black;
+  font-weight: 600;
+  font-family: Verdana, sans-serif;
+  cursor: pointer;
+}
+.btn-sumar:hover {
+  color: orange;
+  background-color: rgba(0, 0, 0, 0.468);
+}
+
+.btn-contador {
+  color: rgb(234, 234, 123);
+  border: 2px solid black;
+  padding-inline: 15px;
+  padding: 8px;
+  border-radius: 10px;
+  margin: 0.8rem;
+  text-align: center;
+  text-shadow: 2px 2px 2px black;
+  font-weight: 800;
+  font-family: Verdana, sans-serif;
+}
+
+.btn-restar {
+  background-color: rgba(0, 0, 0, 0.468);
+  border-radius: 30px;
+  padding: 10px;
+  border: 2px solid black;
+  color: yellow;
+  text-shadow: 2px 2px 2px black;
+  font-weight: 800;
+  font-family: Verdana, sans-serif;
+  cursor: pointer;
+}
+
+.btn-restar:hover {
+  color: orange;
+  background-color: rgba(0, 0, 0, 0.468);
+}
+.agregar-cart {
+  background-color: rgba(0, 0, 0, 0.338);
+  border: 2px solid black;
+  color: yellow;
+  padding: 10px;
+  margin: 2rem;
+  border-radius: 30px;
+  padding: 10px;
+  text-shadow: 2px 2px 2px black;
+  font-weight: 800;
+  font-family: Verdana, sans-serif;
+  cursor: pointer;
+}
+
+.agregar-cart:hover {
+  color: orange;
+  background-color: rgba(0, 0, 0, 0.468);
+}

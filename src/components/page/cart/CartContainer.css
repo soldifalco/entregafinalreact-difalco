@@ -1,0 +1,108 @@
+.title-carrito {
+  color: yellow;
+  text-shadow: 2px 2px 2px black;
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 1rem;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 800;
+  text-shadow: 2px 2px 2px orangered;
+  background-color: rgba(0, 0, 0, 0.468);
+}
+
+.carrito-container {
+  background-color: rgba(0, 0, 0, 0.468);
+  color: rgb(234, 234, 123);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 2rem;
+
+  box-shadow: 2px -2px 2px black;
+  padding: 1rem;
+}
+
+.carrito-imagen {
+  width: 100px;
+  margin: 0.5rem;
+}
+
+.carrito-titulo {
+  font-size: 1.3rem;
+  font-family: "Bebas Neue", sans-serif;
+  text-shadow: 2px 2px 2px black;
+}
+
+.carrito-precio {
+  font-size: 1.3rem;
+  font-family: "Bebas Neue", sans-serif;
+  text-shadow: 2px 2px 2px black;
+}
+
+.carrito-cantidad {
+  color: rgb(234, 234, 123);
+  font-size: 1rem;
+  font-family: "Bebas Neue", sans-serif;
+  text-shadow: 2px 2px 2px black;
+  border: 1px solid yellow;
+  padding: 5px;
+  border-radius: 20px;
+  padding-inline: 10px;
+  background-color: rgb(193, 158, 226);
+}
+
+.carrito-eliminar {
+  border: 2px solid rgb(193, 158, 226);
+  margin: 0.5rem;
+  border-radius: 20px;
+  padding-inline: 20px;
+  padding: 5px;
+  background-color: rgb(193, 158, 226);
+  font-weight: 700;
+  font-family: Tahoma, sans-serif;
+  color: rgb(234, 234, 123);
+  text-shadow: 1px 1px 1px black;
+  cursor: pointer;
+}
+
+.carrito-eliminar:hover {
+  color: orange;
+  background-color: rgba(0, 0, 0, 0.468);
+  border: 2px solid rgba(0, 0, 0, 0.468);
+}
+
+.carritoLimpiar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.carrito-limpiar {
+  background-color: rgba(0, 0, 0, 0.468);
+  border: 2px solid rgba(0, 0, 0, 0.468);
+  margin: 0.5rem;
+  border-radius: 20px;
+  padding-inline: 20px;
+  padding: 6px;
+  font-weight: 700;
+  font-family: Tahoma, sans-serif;
+  color: rgb(234, 234, 123);
+  text-shadow: 1px 1px 1px black;
+  cursor: pointer;
+}
+
+.carrito-limpiar:hover {
+  color: orange;
+}
+
+.total-compra {
+  background-color: rgba(0, 0, 0, 0.468);
+  border: 2px solid rgba(0, 0, 0, 0.468);
+  text-align: center;
+  margin: 2rem;
+  padding: 1.5rem;
+  color: rgb(234, 234, 123);
+  font-family: "Bebas Neue", sans-serif;
+  text-shadow: 2px 2px 2px black;
+  letter-spacing: 0.1rem;
+}

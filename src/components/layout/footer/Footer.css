@@ -1,0 +1,19 @@
+.footer-estilos {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  margin: 3rem;
+  background-color: rgba(0, 0, 0, 0.468);
+  line-height: 2.5rem;
+  color: yellow;
+  font-size: 1rem;
+  text-shadow: 2px 2px 2px black;
+  letter-spacing: 0.3rem;
+}
+.footer-title {
+  color: yellow;
+  margin: 1rem;
+  font-size: 1.5rem;
+  font-family: "Neucha", cursive;
+  text-shadow: 2px 2px 2px orangered;
+  font-weight: 900;
+}
