@@ -13,7 +13,6 @@
   font-weight: 900;
   font-size: 2rem;
   font-family: "Neucha", cursive;
-  text-shadow: 2px -2px 2px orangered;
 }
 
 .containerNavbar h4:hover {
@@ -33,7 +32,6 @@
   padding: 0.3rem;
   border-radius: 20px;
   font-family: "Bebas Neue", sans-serif;
-  text-shadow: 1px 1px 1px black;
   cursor: pointer;
 }
 

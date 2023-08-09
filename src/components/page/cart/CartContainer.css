@@ -6,7 +6,6 @@
   margin: 1rem;
   font-family: "Bebas Neue", sans-serif;
   font-weight: 800;
-  text-shadow: 2px 2px 2px orangered;
   background-color: rgba(0, 0, 0, 0.468);
 }
 
@@ -18,7 +17,6 @@
   align-items: center;
   flex-direction: column;
   margin: 2rem;
-
   box-shadow: 2px -2px 2px black;
   padding: 1rem;
 }
@@ -31,20 +29,17 @@
 .carrito-titulo {
   font-size: 1.3rem;
   font-family: "Bebas Neue", sans-serif;
-  text-shadow: 2px 2px 2px black;
 }
 
 .carrito-precio {
   font-size: 1.3rem;
   font-family: "Bebas Neue", sans-serif;
-  text-shadow: 2px 2px 2px black;
 }
 
 .carrito-cantidad {
   color: rgb(234, 234, 123);
   font-size: 1rem;
   font-family: "Bebas Neue", sans-serif;
-  text-shadow: 2px 2px 2px black;
   border: 1px solid yellow;
   padding: 5px;
   border-radius: 20px;
@@ -62,7 +57,6 @@
   font-weight: 700;
   font-family: Tahoma, sans-serif;
   color: rgb(234, 234, 123);
-  text-shadow: 1px 1px 1px black;
   cursor: pointer;
 }
 
@@ -87,7 +81,6 @@
   font-weight: 700;
   font-family: Tahoma, sans-serif;
   color: rgb(234, 234, 123);
-  text-shadow: 1px 1px 1px black;
   cursor: pointer;
 }
 
@@ -103,6 +96,5 @@
   padding: 1.5rem;
   color: rgb(234, 234, 123);
   font-family: "Bebas Neue", sans-serif;
-  text-shadow: 2px 2px 2px black;
   letter-spacing: 0.1rem;
 }
