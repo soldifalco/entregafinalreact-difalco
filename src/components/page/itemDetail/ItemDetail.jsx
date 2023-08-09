@@ -4,7 +4,7 @@ import "./ItemDetail.css";
 import { useParams } from "react-router-dom";
 import { CartContext } from "../../../context/CartContext";
 import Swal from "sweetalert2";
-import { db } from "../../../firebaseConfig";
+import { db } from "../../../FirebaseConfig";
 import { getDoc, collection, doc } from "firebase/firestore";
 
 const ItemDetail = () => {

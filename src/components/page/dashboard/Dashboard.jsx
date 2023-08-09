@@ -1,6 +1,6 @@
 import { productos } from "../../../data";
 import { addDoc, collection } from "firebase/firestore";
-import { db } from "../../../firebaseConfig";
+import { db } from "../../../FirebaseConfig";
 
 productos;
 
