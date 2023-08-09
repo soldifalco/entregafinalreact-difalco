@@ -1,7 +1,6 @@
 {
   "name": "proyectofinalreact-difalco",
   "private": true,
-  "homepage": "https://soldifalco.github.io/entregafinalreact-difalco/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
